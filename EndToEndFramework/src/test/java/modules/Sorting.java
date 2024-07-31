@@ -4,6 +4,8 @@ public class Sorting {
 
 	public static void main(String[] args) {
 		
+		System.out.println("hello");
+		
 		
 		int[] nums= {6,4,9,5,3};
 		
