@@ -8,6 +8,7 @@ public class Sorting {
 		int[] nums= {6,4,9,5,3};
 		
 		int temp;
+		int ki=0;
 		
 		//ascedning - small to big 
 		
